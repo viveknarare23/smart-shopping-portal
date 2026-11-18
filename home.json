@@ -1,0 +1,16 @@
+[
+    {
+        "id": 5,
+        "name": "Table Lamp",
+        "category": "Home",
+        "price": 599,
+        "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500"
+    },
+    {
+        "id": 6,
+        "name": "Coffee Mug",
+        "category": "Home",
+        "price": 299,
+        "image": "https://images.unsplash.com/photo-1514228742587-6b1558f?w=500"
+    }
+]
